@@ -1,0 +1,15 @@
+{
+  "name": "@bobbyanne/how-to-npm",
+  "version": "1.0.0",
+  "description": "Working through a npm tut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bobbyanne",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "npm-how-to"
+  }
+}
